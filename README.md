@@ -599,14 +599,8 @@ Auto Scaling:      0
 ``` text
 aws-linux-lvm-storage-expansion/
 ├── README.md
-├── local-wsl-lvm/
-├── aws-lvm/
 └── screenshots/
 ```
-
-Screenshots from the labs can be added to the `screenshots/` directory
-as the project documentation is completed.
-
 ------------------------------------------------------------------------
 
 # Author
