@@ -1,0 +1,19 @@
+# Windows metadata
+*:Zone.Identifier
+
+# Local LVM disk images
+*.img
+
+# Terraform state and working files
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Sensitive files
+.env
+*.pem
+*.key
+
+# Logs
+*.log
